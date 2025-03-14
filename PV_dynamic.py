@@ -14,6 +14,7 @@ chargetime = 4  # hours to charge fully the battery
 # Model
 model = ConcreteModel()
 
+
 # Define model variables
 ##########################################
 ############ CODE TO ADD HERE ############
